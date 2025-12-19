@@ -9,12 +9,12 @@ Projeto de **aplicação web completa** para gerenciamento de um **Escape Room**
 ## 🌐 Deploy da Aplicação
 
 **Frontend (Produção):**
-🔗 Vercel: []
+🔗 Vercel: [https://escape-room-system.vercel.app/]
 
 
 ## 📦 Repositórios
 
-**Frontend (ReactJS):** 🔗 []
+**Frontend (ReactJS):** 🔗 [https://github.com/thamihllo/123-ER/]
 ---
 
 ## 🧭 Visão Geral
