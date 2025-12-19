@@ -14,7 +14,9 @@ Projeto de **aplicação web completa** para gerenciamento de um **Escape Room**
 
 ## 📦 Repositórios
 
-**Frontend (ReactJS):** 🔗 [https://github.com/thamihllo/123-ER/]
+**Frontend (ReactJS):**
+
+🔗 [https://github.com/thamihllo/123-ER]
 ---
 
 ## 🧭 Visão Geral
@@ -110,18 +112,6 @@ As telas abaixo ilustram as principais funcionalidades do sistema.
 **Tela 4 — Gestão de Equipes**
 
 ![equipes](./public/equipes.imagem.png)
-
-
-
-🧠 Modelagem dos Dados
-
-📌 Diagrama de Classes
-
-O diagrama de classes abaixo representa o modelo conceitual utilizado no projeto, servindo como base para o Backend/LocalStorage e para o consumo no FrontEnd.
-
-
-
-![classes](./public/classes.imag.png)
 
 
 
